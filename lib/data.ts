@@ -71,13 +71,8 @@ export const projectsData = [
   },
   {
     title: "FirstTrip B2C",
-    description: ` have contributed by implementing page designs and components using Tailwind 
-      CSS in Next.js, translating Figma designs into functional elements. 
-      
-      
-      I bring a comprehensive skill set to deliver a robust and efficient user interface for 
-      OTA management, showcasing expertise in cutting edge web development 
-      technologies`,
+    description: `Have contributed by implementing page designs and components using Tailwind 
+      CSS in Next.js, translating Figma designs into functional elements.`,
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: b2c,
   },
