@@ -1,5 +1,5 @@
-import b2b from "@/public/firsttripb2b.png";
-import b2c from "@/public/firsttripb2c.jpg";
+import b2b from "@/public/firsttripb2b.jpg";
+import b2c from "@/public/firsttripb2c.png";
 import usbair from "@/public/usbair.png";
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
