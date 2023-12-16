@@ -48,7 +48,7 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "TechnoNext Ltd, Dhaka",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Demonstrated ability to deliver a robust and efficient user interface for OTA management.",
     icon: React.createElement(CgWorkAlt),
     date: "2022 - Present",
   },
@@ -64,15 +64,20 @@ export const projectsData = [
   },
   {
     title: "FirstTrip B2B",
-    description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+    description: `Developed and implemented Online Travel Agency (OTA) Management System 
+      frontend using Next.js, Zustand, RT* Query, Next Auth, Tailwind CSS & Chakra UI`,
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: b2b,
   },
   {
     title: "FirstTrip B2C",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    description: ` have contributed by implementing page designs and components using Tailwind 
+      CSS in Next.js, translating Figma designs into functional elements. 
+      
+      
+      I bring a comprehensive skill set to deliver a robust and efficient user interface for 
+      OTA management, showcasing expertise in cutting edge web development 
+      technologies`,
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: b2c,
   },
